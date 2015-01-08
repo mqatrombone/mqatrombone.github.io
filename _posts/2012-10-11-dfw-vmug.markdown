@@ -1,0 +1,36 @@
+---
+layout: post
+title: DFW VMUG
+date: 2012-10-11 02:21:00.000000000 -05:00
+---
+
+
+Today was the DFW VMUG. I definitely learned a lot, although the sessions
+covering the VMworld announcments weren't very useful for me, because I already
+watched the keynote and paid attention to what went on.
+
+I definitely agree with the keynote speakers that IT is definitely changing. I
+disagree with some of their thoughts about what that means. I think that there
+will be a tech as disruptive as vMotion again, but I also know that tech is not
+the biggest way to improve an organization. Look at how most companies reacted
+to VMware - they did a lot of the same processes, just with fewer physical
+boxes. When I worked for Southwestern Baptist Theological Seminary, both as a
+knowledge worker and in IT, I saw how many inefficiences were driven by doing
+things around a model that was relevant anymore. At the time, it was how most
+of the business processes were driven by how things would be done when an org
+had a mainframe. I think server virtualization and the automation accompanying
+it means that many orgs need to re-evaluate processes. I _know_ "cloud" means
+processes have to be reexamined. That's not a bad thing. Unfortunately, many
+orgs may end up throwing out the baby with the bathwater by just green-fielding
+things in the cloud. Some of the cruft in the processes was built up by finding
+out what doesn't work. Please be cautious and careful as you change processes.
+AND DOCUMENT EVERYTHING!
+
+The PowerCLI/Powershell tips class was great. There's nothing wrong with using
+Excel to generate batch files - I used Excel to create scripts to feed into a
+terminal emulator to speed up repetitive data entry before. 
+
+It was great meeting Cody Bunch and Nick Weaver. Both guys are really smart,
+and do a great job of presenting. After playing with Project Razor, I'm
+excited to see where it is going, because I think it could become a piece of
+tech in almost every admin's toolkit.

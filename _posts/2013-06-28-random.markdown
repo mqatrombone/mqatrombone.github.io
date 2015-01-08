@@ -1,0 +1,32 @@
+---
+layout: post
+title: Random Stuff
+date: 2013-06-28 23:29:00.000000000 -05:00
+---
+
+
+Some random thoughts about things that are happening:
+
+Anyone complaining about Netflix wanting DRM in HTML5 is a fool. Content
+providers are not going to let Netflix stream in a format that can be easily
+ripped. Would you rather deal with plugins or have a standard framework to deal
+with the DRM? I know what I want, and its more streaming content - which means
+DRM. 
+
+Logstash + Kibana is awesome. I need to do more grok filtering and tagging to
+make it even more useful.
+
+Configuration Management is a busy place. Chef, Puppet, Salt, Ansible,
+CFengine, SCCM, and Powershell Desired State Management. A little overwhelming,
+and almost too many choices.
+
+Interesting that Microsoft is moving to a faster release cadence - that was
+one area VMware was going destroy Hyper-V, and Microsoft decided to reduce
+the advantage. Good for them.
+
+iOS 7 looks promising - should be an interesting year for Apple.
+
+HAProxy is my new best friend. I plan on writing a couple of HOWTOs for various
+things, including the new SSL feature.
+
+My baby girl is two. How time flies.

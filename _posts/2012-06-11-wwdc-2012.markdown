@@ -1,0 +1,172 @@
+---
+layout: post
+title: WWDC 2012
+date: 2012-06-11 16:44:00.000000000 -05:00
+---
+
+
+It's time for another WWDC. I think I'll keep my comments here as the keynote
+is liveblogged.
+
+Yes, I'm blogging the liveblogs.
+
+<!-- more -->
+Can the Siri jokes make it into production?
+
+App Store. Yawn. Yes, I know, the App Store is loaded. And successful. And
+pretty awesome for developers and users.
+
+Showing off the iPad in education and around the world. Yawn. Bored now.
+
+Oooh. New Notebooks. And talking about new releases of iOS and Mac OS. I hope
+its not a new release real soon now for Mac OS, just because running Mac OS
+(latest - 2) is not a happy place.
+
+New MacBook Air. There will be happy people in my office. And yes, the MacBook Air completely dominates its competition. 11-inch at $999/$1099. 13-inch at
+$1199/$1499. Better screens, better battery life. Good for 90% of computer
+users.
+
+New MacBook Pro. I would consider it a toss-up versus a comparable HP or Dell.
+Ivy Bridge, lots of RAM, discrete graphics on the 15-inch. Nothing unexpected.
+
+Next-Gen MacBook Pro? I'm fascinated. Amazing new display? Retina graphics in a
+laptop? That can't be cheap. "Radically" thin. That's great for a lot of people,
+but I'd rather have great battery life over thin and light.
+
+RANT: NOT EVERYTHING YOU DO IS A BREAKTHROUGH!
+
+A 15.4in retina display is pretty awesome, though. Is 220ppi "retina" ? The
+iOS retina display is 326ppi.
+
+How many people are going to gripe about that last part?
+
+Updated Apeture, Final Cut Pro X, pro apps. 1080p in the preview for FCPX? Wow.
+
+If there's not a 220ppi display coming, I'll be shocked.
+
+It will be interesting to see if the increased pixel requirements for "retina"
+hurt the next-gen MBP. Because it's going to need a fairly good graphics card.
+
+Kepler graphics. No shock there. Flash storage. Not surprised either. 7 hours of
+battery life? That claim is going to get put to the test. I wouldn't be shocked
+if doing anything display intensive destroyed that. 
+
+Thunderbolt, USB3, and HDMI? Interesting. Lots of ports. That's even more
+interesting. No 802.11ac. Thunderbolt to Firewire, TB to Gig Ethernet. Apple
+has been front-runners on 802.11 in the past. I wonder why not here?
+
+New MagSafe. Hopefully its an improvement, and not a change for change's sake.
+
+"The thermal system operates in a way that is nearly imperceptible to the user" Really? Isn't that kind of the point?
+
+@codinghorror wants a retina MBA. Basically the amount of horsepower in the
+NG-MBP screams to use a desktop instead. I kind of agree with him.
+
+NG-MBP only $2199. That's not bad at all. (256GB of storage). Now to go price a
+comparable Dell or HP.
+
+Aww... straight on to OS X. Bragging about what % are using mountain lion vs
+Windows 7. You don't want to start that fight Apple. There are very good reasons
+not to update sometimes. And you ignore ALL OF THEM!
+
+Mountain Lion supports iCloud OOB. With only 5GB of storage free, they'll make
+some money there. Of course, they could poke a stick in Microsoft's eye by
+adding more free (SkyDrive only allows 5GB for new signups).
+
+New glass dock. REALLY?
+
+Reminders app. Messages. Some nice interplay between Mac and iPhone. Oooh.
+Messages on Mac can send to SMS.
+
+Documents in the cloud means you launch the app that "owns" the document. Yes,
+this works for a lot of people, but sometimes I want to group things from
+multiple apps together. You know what helps me do that? A filesystem.
+
+Fastest javascript engine? Bold words.
+
+iCloud syncing bookmarks and browsing history. Any way Firefox could sync into
+that? Is it as secured as Firefox Sync? Also, Firefox has had this for at least
+12 months.
+
+Sharing features with Twitter and such.
+
+AirPlay Mirroring. Oh God. Here comes the killer feature. Display from Mac to
+AppleTV. Must get that working.
+
+Game Center. Bored now. iOS to Mac gameplay? Not bored. It would be nice if
+Apple could extend its toolkit to Windows, though.
+
+Mail VIPs looks like an interesting feature.
+
+New APIs. 1700? Count is irrelevant.
+
+Mountain Lion is $19.99. Upgrades from Lion and Snow Leopard. Ships in July.
+WILL ITS DFS AND SMB SUPPORT BEING WORTH A DARN?
+
+iOS6! YAY!
+
+Install base comparison: 80% on iOS 5 vs the tiny sliver on Android ICS. That's
+where Apple wins. Until Microsoft or Google decide to strong-arm the carriers
+into letting them update like Apple. iOS will be the standard.
+
+Yes, iOS is awesome. Siri improvements incoming. Good. But I don't have Siri.
+And Siri knows sports. And now any new voice integration has to be that much
+better. Also, RANGERS WIN!
+
+Siri also does restaurants, movies, and apps. Apps could be a killer feature.
+
+Siri can tweet for you. That could be bad. Hands-free and Eyes-free. Working on
+Siri<->car integration. BMW, GM, Mercedes, Land Rover, Jaguar, Audi, Toyota, and
+Honda are all working on Siri integration. Wouldn't a generic phone <-> car
+interface be more useful? Why couldn't that be some part of Bluetooth? Generic
+voice -> voice control interface.
+
+Facebook is integrating in iOS6. If it pulls contact information, great.
+Integrates with Notification Center and Siri. Apps can integrate with Facebook,
+too. That worries me. If I can't lock out apps, I will not be happy. Events and
+Birthdays from Facebook is pretty cool. And it does so in OS X.
+
+Phone app improvements? Ooooh. Reply with a message? YES PLEASE. NOW. Or add a
+reminder to call back? Neat. More geofencing. Do Not Disturb? YES! And it lets
+certain numbers through? That's awesome.
+
+FACETIME OVER CELLULAR! It's about time.
+
+Unifying phone number and apple id? Facetime to number can go to iPad or Mac.
+Messages do the same thing. That's going to piss off the cellular companies.
+
+It'd be nice if Instapaper could plug into the reading list API.
+
+Safari can handle app ads for websites, instead of them having to. That's a good
+thing, I think. I'm sick of all of those. Safari can do fullscreen in landscape.
+
+Shared Photo Streams? Could be good, could be bad. I know some grandma's who
+would like that, though. Looks like it might be an Instagram clone. Works with
+Web Browser on Windows and Apple TV.
+
+Mail VIPs. Notifications on lock screen from VIPs. And a VIP mailbox. And a
+flagged mailbox. Can insert photos or videos from within the compose window.
+That will make some people very happy. Although a generic insert would be nice.
+
+Passbook - tickets, boarding passes, etc. All in one app, versus all over the
+place. Uses geofencing to automatically detect where you're at. That's actually
+really, really good and useful. I can't wait to see devs take advantage of it.
+Coupons? uh-oh. I can see that being abused, too. Definitely a wait and see feature.
+
+Guided access. Autism? That makes things great for a 1-year-old. Also let's you
+lock for tests. 
+
+New maps. Includes traffic view. Turn-by-turn navigation. And Apple v. Google
+just turned into an all-out war. Is there anything that Apple depends on google
+for now?
+
+I'd love to ask Siri, but I've got an iPhone 4 and I can't.
+
+New maps features look good. Can't wait to use them.
+
+And we're just scratching the surface on new features. It looks like they've
+left some really good things off the keynote.
+
+And iOS 6 to developers today, ships this fall. Supports iPhone 3GS and later.
+Another spot where Apple is killing everyone. EVERYONE. The 3GS is 3 years old
+and still getting updates.

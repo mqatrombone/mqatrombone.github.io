@@ -1,0 +1,8 @@
+---
+layout: post
+title: SMB 3.0
+date: 2012-04-20 02:13:00.000000000 -05:00
+---
+http://blogs.technet.com/b/windowsserver/archive/2012/04/19/smb-2-2-is-now-smb-3-0.aspx
+
+Windows 8's and Server 2012's killer feature. Almost every weakness in the SMB protocol is fixed with this release. I'm excited to see what people do on top of it.

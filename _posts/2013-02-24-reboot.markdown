@@ -1,0 +1,8 @@
+---
+layout: post
+title: Rebooting on nanoc
+date: 2013-02-24 13:00:00.000000000 -06:00
+---
+
+
+Moving servers and switching to a different blogging platform.

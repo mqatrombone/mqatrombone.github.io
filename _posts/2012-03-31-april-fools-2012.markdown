@@ -1,0 +1,17 @@
+---
+layout: post
+title: April Fools 2012
+date: 2012-03-31 19:00:00.000000000 -05:00
+---
+
+
+I really hate April Fools on the internet. Too many attempts to be silly. Is
+it better or worse that April 1 falls on a Sunday? Anyways, here are some of
+the things that caught my attention.
+
+* [Bitbucket introduces spooning](https://bitbucket.org/spooning/)
+* [Create unmaintable vCO Workflows](http://www.vcoportal.de/2012/04/safe-your-job-create-unmaintainable-workflows/)
+* [Notch's new space game, Mars Effect](http://marseffect.net)
+* [Razer Snake Eyes - Augmented Reality HUD](http://www.razerzone.com/snakeeyes)
+* [New Microsoft Language - D-flat](https://twitter.com/#!/mminasi/status/186426766406070272)
+* [Star Wars: The Old Republic - Live the Ship Droid Experience](http://www.swtor.com/news/news-article/20120401)
