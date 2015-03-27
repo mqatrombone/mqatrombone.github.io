@@ -11,9 +11,16 @@ layout: default
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
+        {% if post.layout == "post" %}
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        {% endif %}
+        {% if post.layout == "linkpost" %}
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">→ {{ post.title }}</a>
+        </h2>
+        {% endif %}
       </li>
     {% endfor %}
   </ul>

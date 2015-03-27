@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: linkpost
 title: Teaching the User the Interface
 date: 2012-05-09 14:05:00.000000000 -05:00
+link: http://www.randsinrepose.com/archives/2012/05/09/two_universes.html
 ---
-http://www.randsinrepose.com/archives/2012/05/09/two_universes.html
 
 Portal _is_ a fantastic example of how to teach someone how to play a game
 without overwhelming them or using a manual. While Rands is mostly talking

@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: linkpost
 title: Making stuff work
 date: 2012-04-17 03:40:00.000000000 -05:00
+link: http://37signals.com/svn/posts/3163-making-shit-work-is-everyones-job
 ---
-http://37signals.com/svn/posts/3163-making-shit-work-is-everyones-job
 
 > Making [stuff] work is everyone’s job.
 

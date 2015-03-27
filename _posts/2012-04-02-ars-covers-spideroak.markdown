@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: linkpost
 title: Ars Covers SpiderOak
 date: 2012-04-02 23:08:00.000000000 -05:00
+link: http://arstechnica.com/business/reviews/2012/04/spideroak-dropbox-for-the-security-obsessive.ars
 ---
-http://arstechnica.com/business/reviews/2012/04/spideroak-dropbox-for-the-security-obsessive.ars
 
 SpiderOak is pretty awesome. It is slightly more complicated than Dropbox to
 set up. However, the effort they have made to make sure that your data is

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: linkpost
 title: Policy
 date: 2012-04-14 17:11:00.000000000 -05:00
+link: http://cuddletech.com/blog/?p=652
 ---
-http://cuddletech.com/blog/?p=652
 
 Documentation. It's important. Including policy. It's also important to record why decisions are made.
