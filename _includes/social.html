@@ -21,7 +21,13 @@
                     </g>
                   </svg>
                 </span>
-              </a>{% endif %}{% if site.github_username %}
+        </a>{% endif %}{% if site.serverfault_link %}
+        <a href="https://serverfault.com/{{ site.serverfault_link }}">
+            <span class="icon icon--serverfault">
+                {% include serverfault-small.svg %}
+            </span>
+        </a>
+        {% endif %}{% if site.github_username %}
               <a href="https://github.com/{{ site.github_username }}">
                 <span class="icon  icon--github">
                   <svg viewBox="0 0 16 16">
