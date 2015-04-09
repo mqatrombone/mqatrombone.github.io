@@ -15,3 +15,12 @@ contenturl: "/blog/content"
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  excerpt_separator: <!--more-->
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
