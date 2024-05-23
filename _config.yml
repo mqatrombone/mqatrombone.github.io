@@ -8,7 +8,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mqatrombone.github.io" # the base hostname & protocol for your site
 twitter_username: mqatrombone
 github_username:  mqatrombone
-serverfault_link: users/99275/mqatrombone
+mastodon_profile: https://social.lol/@mqa
 
 permalink: /blog/:year/:month/:day/:title/
 contenturl: "/blog/content"
