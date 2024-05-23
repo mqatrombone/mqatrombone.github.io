@@ -19,6 +19,9 @@ kramdown:
   input: GFM
   excerpt_separator: <!--more-->
 
+include:
+  - ".well-known"
+
 exclude:
   - Gemfile
   - Gemfile.lock
