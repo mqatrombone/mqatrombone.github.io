@@ -35,7 +35,7 @@ likely a recipe for weirdness.
 
 ## Video Games
 
-EA College Footbal 25 better not be bad. Mostly been playing old school SNES
+EA College Football 25 better not be bad. Mostly been playing old school SNES
 RPGs and Mario RPG remakes. Nothing incredible on the horizon that I'm looking
 forward to.
 
