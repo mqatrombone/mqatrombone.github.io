@@ -2,7 +2,7 @@
  * Site header
  */
 .site-header {
-    padding: 15px 0;
+    padding-top: 15px;
     min-height: 50px;
     border-bottom: 1px solid $grey-color-light;
 
@@ -46,7 +46,7 @@
     &, &:visited {
         color: $grey-color-dark;
     }
-    margin: 8px;
+    margin-block: 8px;
 }
 
 .site-subtitle {
