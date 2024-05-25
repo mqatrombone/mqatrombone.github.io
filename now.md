@@ -2,6 +2,7 @@
 layout: page
 title: Now
 permalink: /now/
+section: now
 ---
 
 (Updated May 2024)
