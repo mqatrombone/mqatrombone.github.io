@@ -19,7 +19,8 @@ body {
     line-height: $base-line-height;
     color: $text-color;
     background-color: $background-color;
-    -webkit-text-size-adjust: 100%;
+    -webkit-text-size-adjust: none;
+    text-size-adjust: none;
 }
 
 
