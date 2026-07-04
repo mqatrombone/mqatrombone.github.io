@@ -1,10 +1,6 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
-@charset "utf-8";
-
-
-
 // Our variables
 $base-font-family:      Helvetica, Arial, sans-serif;
 $base-font-size:        16px;
@@ -46,8 +42,6 @@ $on-big:                1500px;
     }
 }
 
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+@use "base";
+@use "layout";
+@use "syntax-highlighting";
