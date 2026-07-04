@@ -1,119 +1,106 @@
 @use "sass:color";
-/**
- * Reset some basic elements
- */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
+@use "theme";
+
+@mixin styles {
+  /**
+   * Reset some basic elements
+   */
+  body, h1, h2, h3, h4, h5, h6,
+  p, blockquote, pre, hr,
+  dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
-}
+  }
 
-
-
-/**
- * Basic styling
- */
-body {
-    font-family: $base-font-family;
-    font-size: $base-font-size;
-    line-height: $base-line-height;
-    color: $text-color;
-    background-color: $background-color;
+  /**
+   * Basic styling
+   */
+  body {
+    font-family: theme.$base-font-family;
+    font-size: theme.$base-font-size;
+    line-height: theme.$base-line-height;
+    color: theme.$text-color;
+    background-color: theme.$background-color;
     -webkit-text-size-adjust: none;
     text-size-adjust: none;
-}
+  }
 
-
-
-/**
- * Set `margin-bottom` to maintain vertical rhythm
- */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
-%vertical-rhythm {
+  /**
+   * Set `margin-bottom` to maintain vertical rhythm
+   */
+  h1, h2, h3, h4, h5, h6,
+  p, blockquote, pre,
+  ul, ol, dl, figure,
+  %vertical-rhythm {
     margin-bottom: 1em;
-}
+  }
 
-
-
-/**
- * Images
- */
-img {
+  /**
+   * Images
+   */
+  img {
     max-width: 100%;
     vertical-align: middle;
-}
+  }
 
-
-
-/**
- * Figures
- */
-figure > img {
+  /**
+   * Figures
+   */
+  figure > img {
     display: block;
-}
+  }
 
-figcaption {
-    font-size: $small-font-size;
-}
+  figcaption {
+    font-size: theme.$small-font-size;
+  }
 
+  /**
+   * Lists
+   */
+  ul, ol {
+    margin-left: theme.$spacing-unit;
+  }
 
-
-/**
- * Lists
- */
-ul, ol {
-    margin-left: $spacing-unit;
-}
-
-li {
+  li {
     > ul,
     > ol {
-         margin-bottom: 0;
+      margin-bottom: 0;
     }
-}
+  }
 
-
-
-/**
- * Headings
- */
-h1, h2, h3, h4, h5, h6 {
+  /**
+   * Headings
+   */
+  h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
-}
+  }
 
-
-
-/**
- * Links
- */
-a {
-    color: $brand-color;
+  /**
+   * Links
+   */
+  a {
+    color: theme.$brand-color;
     text-decoration: none;
 
     &:visited {
-        color: color.adjust($brand-color, $lightness: -15%);
+      color: color.adjust(theme.$brand-color, $lightness: -15%);
     }
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
+      color: theme.$text-color;
+      text-decoration: underline;
     }
 
     padding-block: 16px;
-}
+  }
 
-
-
-/**
- * Blockquotes
- */
-blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
-    padding-left: $spacing-unit * 0.5;
+  /**
+   * Blockquotes
+   */
+  blockquote {
+    color: theme.$grey-color;
+    border-left: 4px solid theme.$grey-color-light;
+    padding-left: theme.$spacing-unit * 0.5;
     font-size: 18px;
     letter-spacing: -1px;
     font-style: italic;
@@ -121,59 +108,54 @@ blockquote {
     > :last-child {
         margin-bottom: 0;
     }
-}
+  }
 
-
-
-/**
- * Code formatting
- */
-pre,
-code {
+  /**
+   * Code formatting
+   */
+  pre,
+  code {
     font-size: 15px;
-    border: 1px solid $grey-color-light;
+    border: 1px solid theme.$grey-color-light;
     border-radius: 3px;
-//    background-color: #eef;
-}
+  }
 
-code {
+  code {
     padding: 1px 5px;
-}
+  }
 
-pre {
+  pre {
     padding: 8px 12px;
     overflow-x: scroll;
 
     > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
+      border: 0;
+      padding-right: 0;
+      padding-left: 0;
     }
-}
+  }
 
+  /**
+   * Wrapper
+   */
+  .wrapper {
+    padding-right: theme.$spacing-unit;
+    padding-left: theme.$spacing-unit;
 
-
-/**
- * Wrapper
- */
-.wrapper {
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
-
-    @include media-query($on-small) {
-        padding-right: $spacing-unit * 0.5;
-        padding-left: $spacing-unit * 0.5;
+    @include theme.media-query(theme.$on-small) {
+      padding-right: theme.$spacing-unit * 0.5;
+      padding-left: theme.$spacing-unit * 0.5;
     }
-}
+  }
 
-/**
- * Icons
- */
-.icon {
-
+  /**
+   * Icons
+   */
+  .icon {
     > svg {
-        display: inline-block;
-        width: 16px;
-        height: 16px;
+      display: inline-block;
+      width: 16px;
+      height: 16px;
     }
+  }
 }
